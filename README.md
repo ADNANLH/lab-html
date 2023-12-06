@@ -9,4 +9,4 @@ L'objectif de ce projet est d'élaborer un recueil de recettes en ligne mettant 
 ## Référence
 [How to scroll to anchor smoothly with CSS and HTML?](https://codedamn.com/news/frontend/how-to-scroll-to-anchor-smoothly)
 ## Solution
-[Recettes Marocaines](https://docs.google.com/presentation/d/1qPn6BuoN5Y8Y-irQydLhGT9ZqZ2FT6jnjZS0qFP74Xo/edit?usp=sharing)
+[Recettes Marocaines](https://github.com/ADNANLH/lab-html/blob/main/index.html)
